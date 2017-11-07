@@ -1,2 +1,2 @@
 # Comic-Book-Gallery
-ThreeHouse study - Project
+Treehouse study - Project
